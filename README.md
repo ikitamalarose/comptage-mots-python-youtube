@@ -35,7 +35,7 @@ Ce projet est une démonstration de compétences en manipulation de fichiers, en
 
 1. Clonez ce dépôt sur votre machine locale :
     ```bash
-    git https://github.com/ikitamalarose/comptage-mots-python-youtube.git
+    git clone https://github.com/ikitamalarose/comptage-mots-python-youtube.git
     ```
 2. Naviguez dans le répertoire du projet :
     ```bash
