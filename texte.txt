@@ -1,0 +1,5 @@
+Le chat dort sur le canapé.
+Le chien court dans le jardin.
+Le chat se réveille et saute du canapé.
+Le chien aboie, mais le chat l'ignore.
+Finalement, le chat retourne dormir sur le canapé.
